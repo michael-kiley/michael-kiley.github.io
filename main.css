@@ -1,0 +1,15 @@
+body {
+    font-family: 'Cinzel', serif;
+    font-size: 9vw;
+    text-align: center;
+    color: white;
+    background-color: #3c69b2
+}
+
+.smallerWords {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    color: white;
+    background-color: #3c69b2
+}
